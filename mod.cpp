@@ -1,0 +1,11 @@
+name = "Carrion Watch";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Carrion Watch - birds mark the dead";
+overview = "A thin column of smoke and a carrion call gather over fresh player corpses. Visible and audible at long range. Gunfire scatters the flock.";
+action = "";
+author = "Dead Air Studio";
+authorID = "";
+version = "0.1.0";

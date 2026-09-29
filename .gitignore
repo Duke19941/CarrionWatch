@@ -1,0 +1,6 @@
+*.pbo
+*.bisign
+*.biprivatekey
+*.bikey
+.DS_Store
+Thumbs.db

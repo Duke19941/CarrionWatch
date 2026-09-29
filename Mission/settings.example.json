@@ -1,0 +1,13 @@
+{
+    "enabled": true,
+    "playersOnly": true,
+    "enableSmoke": true,
+    "enableFlies": true,
+    "enableCall": true,
+    "enableScatter": true,
+    "delaySeconds": 90.0,
+    "lifetimeSeconds": 720.0,
+    "scatterSeconds": 120.0,
+    "gunshotRadius": 35.0,
+    "smokeHeight": 1.6
+}

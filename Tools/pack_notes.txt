@@ -1,0 +1,22 @@
+Addon Builder
+=============
+
+P:\CarrionWatch\                 source
+P:\Mods\@CarrionWatch\addons\    output
+
+1) Scripts
+   Source : P:\CarrionWatch\Scripts
+   Dest   : P:\Mods\@CarrionWatch\addons\CarrionWatch_Scripts.pbo
+   Prefix : CarrionWatch\Scripts
+
+2) Data
+   Source : P:\CarrionWatch\Data
+   Dest   : P:\Mods\@CarrionWatch\addons\CarrionWatch_Data.pbo
+   Prefix : CarrionWatch\Data
+
+3) Copy mod.cpp into P:\Mods\@CarrionWatch\
+
+Launch:
+  DayZDiag_x64.exe "-mod=P:\Mods\@CarrionWatch" -filePatching
+
+No types.xml. The flock entity is script-spawned, not loot.
